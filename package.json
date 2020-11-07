@@ -1,0 +1,29 @@
+{
+  "name": "merng-social",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoerGitKat/merng-social.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoerGitKat/merng-social/issues"
+  },
+  "homepage": "https://github.com/NoerGitKat/merng-social#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "colors": "^1.4.0",
+    "graphql": "^15.4.0",
+    "mongoose": "^5.10.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
